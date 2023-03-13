@@ -1,0 +1,408 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B42D6158293364A200A0A0AA /* PlayerCardsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42D6157293364A200A0A0AA /* PlayerCardsView.swift */; };
+		B44FDA04292230E80072A5F4 /* SuperFarmerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44FDA03292230E80072A5F4 /* SuperFarmerApp.swift */; };
+		B44FDA06292230E80072A5F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44FDA05292230E80072A5F4 /* ContentView.swift */; };
+		B44FDA08292230E90072A5F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B44FDA07292230E90072A5F4 /* Assets.xcassets */; };
+		B44FDA0B292230E90072A5F4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B44FDA0A292230E90072A5F4 /* Preview Assets.xcassets */; };
+		B44FDA15292231790072A5F4 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44FDA14292231790072A5F4 /* MainView.swift */; };
+		B44FDA222922424A0072A5F4 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44FDA212922424A0072A5F4 /* Player.swift */; };
+		B4A7235E2934BA2C00ECB37B /* TradeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A7235D2934BA2C00ECB37B /* TradeView.swift */; };
+		B4B5933D29375BFB00ACA52F /* TopMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4B5933C29375BFB00ACA52F /* TopMenuView.swift */; };
+		B4DFEF252925637D002A522F /* DicesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DFEF242925637D002A522F /* DicesView.swift */; };
+		B4DFEF2B29256652002A522F /* Cards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DFEF2A29256652002A522F /* Cards.swift */; };
+		B4DFEF2D2925665C002A522F /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DFEF2C2925665C002A522F /* Game.swift */; };
+		B4DFEF2F29256878002A522F /* GameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DFEF2E29256878002A522F /* GameModel.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B42D6157293364A200A0A0AA /* PlayerCardsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerCardsView.swift; sourceTree = "<group>"; };
+		B44FDA00292230E80072A5F4 /* SuperFarmer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperFarmer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B44FDA03292230E80072A5F4 /* SuperFarmerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperFarmerApp.swift; sourceTree = "<group>"; };
+		B44FDA05292230E80072A5F4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B44FDA07292230E90072A5F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B44FDA0A292230E90072A5F4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B44FDA14292231790072A5F4 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		B44FDA212922424A0072A5F4 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		B4A7235D2934BA2C00ECB37B /* TradeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TradeView.swift; sourceTree = "<group>"; };
+		B4B5933C29375BFB00ACA52F /* TopMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopMenuView.swift; sourceTree = "<group>"; };
+		B4DFEF242925637D002A522F /* DicesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DicesView.swift; sourceTree = "<group>"; };
+		B4DFEF2A29256652002A522F /* Cards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cards.swift; sourceTree = "<group>"; };
+		B4DFEF2C2925665C002A522F /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		B4DFEF2E29256878002A522F /* GameModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameModel.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B44FD9FD292230E80072A5F4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B44FD9F7292230E80072A5F4 = {
+			isa = PBXGroup;
+			children = (
+				B44FDA02292230E80072A5F4 /* SuperFarmer */,
+				B44FDA01292230E80072A5F4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B44FDA01292230E80072A5F4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B44FDA00292230E80072A5F4 /* SuperFarmer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B44FDA02292230E80072A5F4 /* SuperFarmer */ = {
+			isa = PBXGroup;
+			children = (
+				B44FDA03292230E80072A5F4 /* SuperFarmerApp.swift */,
+				B44FDA05292230E80072A5F4 /* ContentView.swift */,
+				B44FDA13292231550072A5F4 /* View */,
+				B44FDA12292231480072A5F4 /* View Model */,
+				B44FDA112922313F0072A5F4 /* Model */,
+				B44FDA07292230E90072A5F4 /* Assets.xcassets */,
+				B44FDA09292230E90072A5F4 /* Preview Content */,
+			);
+			path = SuperFarmer;
+			sourceTree = "<group>";
+		};
+		B44FDA09292230E90072A5F4 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				B44FDA0A292230E90072A5F4 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B44FDA112922313F0072A5F4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B4DFEF2C2925665C002A522F /* Game.swift */,
+				B44FDA212922424A0072A5F4 /* Player.swift */,
+				B4DFEF2A29256652002A522F /* Cards.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B44FDA12292231480072A5F4 /* View Model */ = {
+			isa = PBXGroup;
+			children = (
+				B4DFEF2E29256878002A522F /* GameModel.swift */,
+			);
+			path = "View Model";
+			sourceTree = "<group>";
+		};
+		B44FDA13292231550072A5F4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				B44FDA14292231790072A5F4 /* MainView.swift */,
+				B4B5933C29375BFB00ACA52F /* TopMenuView.swift */,
+				B4A7235D2934BA2C00ECB37B /* TradeView.swift */,
+				B42D6157293364A200A0A0AA /* PlayerCardsView.swift */,
+				B4DFEF242925637D002A522F /* DicesView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B44FD9FF292230E80072A5F4 /* SuperFarmer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B44FDA0E292230E90072A5F4 /* Build configuration list for PBXNativeTarget "SuperFarmer" */;
+			buildPhases = (
+				B44FD9FC292230E80072A5F4 /* Sources */,
+				B44FD9FD292230E80072A5F4 /* Frameworks */,
+				B44FD9FE292230E80072A5F4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SuperFarmer;
+			productName = SuperFarmer;
+			productReference = B44FDA00292230E80072A5F4 /* SuperFarmer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B44FD9F8292230E80072A5F4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1410;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					B44FD9FF292230E80072A5F4 = {
+						CreatedOnToolsVersion = 14.1;
+					};
+				};
+			};
+			buildConfigurationList = B44FD9FB292230E80072A5F4 /* Build configuration list for PBXProject "SuperFarmer" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B44FD9F7292230E80072A5F4;
+			productRefGroup = B44FDA01292230E80072A5F4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B44FD9FF292230E80072A5F4 /* SuperFarmer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B44FD9FE292230E80072A5F4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B44FDA0B292230E90072A5F4 /* Preview Assets.xcassets in Resources */,
+				B44FDA08292230E90072A5F4 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B44FD9FC292230E80072A5F4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B4DFEF2D2925665C002A522F /* Game.swift in Sources */,
+				B4DFEF2B29256652002A522F /* Cards.swift in Sources */,
+				B44FDA06292230E80072A5F4 /* ContentView.swift in Sources */,
+				B44FDA15292231790072A5F4 /* MainView.swift in Sources */,
+				B4B5933D29375BFB00ACA52F /* TopMenuView.swift in Sources */,
+				B42D6158293364A200A0A0AA /* PlayerCardsView.swift in Sources */,
+				B4DFEF252925637D002A522F /* DicesView.swift in Sources */,
+				B44FDA222922424A0072A5F4 /* Player.swift in Sources */,
+				B4A7235E2934BA2C00ECB37B /* TradeView.swift in Sources */,
+				B44FDA04292230E80072A5F4 /* SuperFarmerApp.swift in Sources */,
+				B4DFEF2F29256878002A522F /* GameModel.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		B44FDA0C292230E90072A5F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B44FDA0D292230E90072A5F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B44FDA0F292230E90072A5F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SuperFarmer/Preview Content\"";
+				DEVELOPMENT_TEAM = VMDYVZQFVB;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleLightContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dominikkowv.SuperFarmer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B44FDA10292230E90072A5F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SuperFarmer/Preview Content\"";
+				DEVELOPMENT_TEAM = VMDYVZQFVB;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleLightContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dominikkowv.SuperFarmer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B44FD9FB292230E80072A5F4 /* Build configuration list for PBXProject "SuperFarmer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B44FDA0C292230E90072A5F4 /* Debug */,
+				B44FDA0D292230E90072A5F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B44FDA0E292230E90072A5F4 /* Build configuration list for PBXNativeTarget "SuperFarmer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B44FDA0F292230E90072A5F4 /* Debug */,
+				B44FDA10292230E90072A5F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B44FD9F8292230E80072A5F4 /* Project object */;
+}
