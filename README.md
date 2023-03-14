@@ -20,12 +20,7 @@
 <h3 align="left">My Projects:</h3>
 <h2 align="center">Socialize 📱</h2>
 
-<img src="https://user-images.githubusercontent.com/97188489/224932050-243e4900-fef9-4604-ba3a-f1484f5f0d4a.png
-" width="15%"></img> 
-<img src="https://user-images.githubusercontent.com/97188489/224932100-97db8cfc-8153-40bf-b006-e1900c5cf596.png
-" width="15%"></img> 
-<img src="https://user-images.githubusercontent.com/97188489/224932132-b853d268-62b4-4137-a11b-bf380b84f0ab.png
-" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/97188489/224932050-243e4900-fef9-4604-ba3a-f1484f5f0d4a.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/97188489/224932100-97db8cfc-8153-40bf-b006-e1900c5cf596.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/97188489/224932160-e4aba746-5f23-4c8c-8a61-c42422ee366e.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/97188489/224932132-b853d268-62b4-4137-a11b-bf380b84f0ab.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/97188489/224932189-640774c7-3916-451c-b425-d7d5f7879ac7.png" width="18%"></img> 
 
 
 **Short Description:** 
@@ -42,6 +37,8 @@ Socialize is a user-friendly iOS app that allows users to create posts with text
 - FirebaseFirestore
 
 <h2 align="center">ShoeLover 👟</h2>
+
+<img src="https://user-images.githubusercontent.com/97188489/224934383-328ecc6d-2da4-48e6-82d0-36e7918618e8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/97188489/224934396-ad6452ec-f51e-4578-9b1f-ea9b8b11923a.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/97188489/224934416-d17f840f-8223-408e-906e-2e0bfcc99636.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/97188489/224934425-6cfdaf4c-f708-48d3-b20e-49955493c5de.png" width="18%"></img> 
 
 **Short Description:** 
 
@@ -65,6 +62,8 @@ ShoeLover is an iOS app designed for shoe enthusiasts who love to shop online. W
 - API
 
 <h2 align="center">SuperFarmer 🧑🏼‍🌾</h2>
+
+<img src="https://user-images.githubusercontent.com/97188489/224934037-9b63c983-0613-40df-bee0-efb593ab1be8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/97188489/224934145-98af511f-7dfa-46a5-90dd-e48c7c1a35ae.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/97188489/224934102-8c5145f2-1b27-4279-9120-67ee159f7dd4.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/97188489/224934112-9b8fa78a-5809-480d-b3a0-3b3e90edd9d4.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/97188489/224934124-f0dc16b5-c7b2-4d18-998e-b034a12c2fd7.png" width="18%"></img> 
 
 **Short Description:** 
 
