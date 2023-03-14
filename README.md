@@ -29,8 +29,9 @@ Socialize is a user-friendly iOS app that allows users to create posts with text
 
 **Used Skills and Frameworks:**
 
-- MVVM Architecture
+- Swift
 - SwiftUI
+- MVVM Architecture
 - FirebaseAuth
 - FirebaseStorage
 - PhotosUI
@@ -46,12 +47,13 @@ ShoeLover is an iOS app designed for shoe enthusiasts who love to shop online. W
 
 **Used Skills and Frameworks:**
 
+- Swift
+- SwiftUI
 - MVVM Architecture
 - Apple Pay
-- SwiftUI
 - PhotosUI
 - Foundation
-- custom View Extensions
+- Custom View Extensions
 
 <h2 align="center">News 📄</h2>
 
@@ -71,6 +73,7 @@ Super Farmer is a mobile app that brings the fun and excitement of the popular b
 
 **Used Skills and Frameworks:**
 
-- MVVM Architecture
+- Swift
 - SwiftUI
+- MVVM Architecture
 - Animations
