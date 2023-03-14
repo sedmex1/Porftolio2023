@@ -20,6 +20,12 @@
 <h3 align="left">My Projects:</h3>
 <h2 align="center">Socialize 📱</h2>
 
+<img src="https://user-images.githubusercontent.com/97188489/224931737-d98b56bc-ed43-40a0-b03d-2cb6497e280e.png
+" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/97188489/224931286-1410924e-4c38-4e58-8742-6f692f831ea7.png
+" width="15%"></img> 
+
+
 **Short Description:** 
 
 Socialize is a user-friendly iOS app that allows users to create posts with text and photos, like them and delete them with ease. With its intuitive interface, users can create an account using their email address, password, photo, username, and description to start socializing with friends and family. The login process is built with Firebase, a secure and reliable platform that ensures a smooth and hassle-free experience for users. Whether you want to share your daily routine, adventures, or special moments, Socialize is the perfect app to keep you connected with your loved ones.
