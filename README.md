@@ -20,9 +20,11 @@
 <h3 align="left">My Projects:</h3>
 <h2 align="center">Socialize 📱</h2>
 
-<img src="https://user-images.githubusercontent.com/97188489/224931737-d98b56bc-ed43-40a0-b03d-2cb6497e280e.png
+<img src="https://user-images.githubusercontent.com/97188489/224932050-243e4900-fef9-4604-ba3a-f1484f5f0d4a.png
 " width="15%"></img> 
-<img src="https://user-images.githubusercontent.com/97188489/224931286-1410924e-4c38-4e58-8742-6f692f831ea7.png
+<img src="https://user-images.githubusercontent.com/97188489/224932100-97db8cfc-8153-40bf-b006-e1900c5cf596.png
+" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/97188489/224932132-b853d268-62b4-4137-a11b-bf380b84f0ab.png
 " width="15%"></img> 
 
 
