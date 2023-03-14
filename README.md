@@ -57,11 +57,19 @@ ShoeLover is an iOS app designed for shoe enthusiasts who love to shop online. W
 
 <h2 align="center">News 📄</h2>
 
+<img src="https://user-images.githubusercontent.com/97188489/225019894-d31b1dbf-d712-4656-80d6-1c51b81b2328.png" width="18%"></img> 
+
 **Short Description:** 
+
+News is a mobile app that allows users to stay up-to-date with the latest news from around the world. The app fetches data from reliable news APIs and displays news articles in an easy-to-use interface. When users find an article they want to read, they can click on it, and the app will redirect them to the internet browser, where they can read the full article. This feature allows users to have access to all the information provided by the news source.
 
 **Used Skills and Frameworks:**
 
+- Swift
+- SwiftUI
+- Combine
 - API
+- MVVM Architecture
 
 <h2 align="center">SuperFarmer 🧑🏼‍🌾</h2>
 
